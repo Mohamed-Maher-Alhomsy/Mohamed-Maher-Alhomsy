@@ -1,6 +1,6 @@
- 👋 Hi, I’m Mohamed Maher Alhomsy
+ 👋 Hi, I’m Mohammed Maher Alhomsy
  ---
-- 👀 I’m interested in Frontend Web Development (Reactjs)
+- 👀 I’m interested in Frontend Web Development (Reactjs | Next.js)
 - 🌱 I’m currently learning Next.Js
 - 📫 How to reach me maheralhomsy2002@gmail.com
 
